@@ -170,5 +170,4 @@ We developed three custom CNN architectures trained from scratch:
 
 ## Authors
 
-- Ori Daniel
-- Gal Levi
+-Hod Haim
